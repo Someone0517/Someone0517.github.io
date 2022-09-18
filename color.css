@@ -9,3 +9,15 @@ body {
 #c2 {
     width: 256px;
 }
+
+#a3:visited{
+    color: #220cee;
+}
+
+#a4:visited {
+    color: #0cee72;
+}
+
+#a5:visited {
+    color: #ee0c0c;
+}
