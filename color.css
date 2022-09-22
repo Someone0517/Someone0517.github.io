@@ -9,15 +9,31 @@ body {
 #c2 {
     width: 256px;
 }
-
 #a3:visited{
     color: #220cee;
 }
-
+#a3:hover{
+    color: #97ee0c;
+}
 #a4:visited {
     color: #0cee72;
 }
-
+#a4:hover   {
+    color: #ee0c88;
+}
 #a5:visited {
     color: #ff0000;
 }
+#a5:hover {
+    color: #00aeff;
+}
+ul.intro-list>li {
+    color: #f700ff;
+}
+ol.hobby-list>li{
+    color: #d9ff00; 
+}
+ol.hobby-list li li{
+    color: #ff0000; 
+}
+
