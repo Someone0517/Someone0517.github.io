@@ -6,6 +6,9 @@ body {
 #c1 {
     color: #0ceed0;
 }
+#c1:hover{
+    color: #ee0c75;
+}
 #c2 {
     width: 256px;
 }
