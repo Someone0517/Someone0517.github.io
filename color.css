@@ -1,6 +1,6 @@
 body {
     background-color:
-        #1E1E1E;
+        #212525;
     color: #FFFFFF;
 }
 #wel {
@@ -51,7 +51,8 @@ ol.hobby-list li li{
     background-color:
         #00f7ff;
     color: #000000;
-    padding: 50px 5px 50px 5px; /*用PADDING沒用，因為他不是內容*/
+    padding: 50px 5px 50px 5px; 
+    /*用PADDING沒用，因為他不是內容*/
     border: 3px double #dfee0c;
     margin: 0 auto;
     width: 50%;
@@ -64,4 +65,14 @@ ol.hobby-list li li{
 .divw2{
     position: sticky;
     top: 40px;
+}
+
+
+
+.invisible{
+    display: none;
+}
+.btn{
+    cursor: pointer;
+    color: #d9ff00;
 }
