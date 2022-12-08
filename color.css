@@ -49,26 +49,28 @@ ol.hobby-list li li{
 }
 .div1{
     background-color:
-        #00f7ff;
+        #0066ff;
     color: #000000;
-    padding: 50px 5px 50px 5px; 
+    padding: 5px 5px 50px 5px; 
     /*用PADDING沒用，因為他不是內容*/
-    border: 3px double #dfee0c;
+    border: 3px dashed #fffb00;
     margin: 0 auto;
-    width: 50%;
+    width: 80%;
     height: 1000px;  /*要用height*/
 }
 .divw1{
     position: sticky;
-    top: 20px;
+    top: 10px;
+    padding-left: 40%;
+    padding-right: 40%;
+   
 }
 .divw2{
     position: sticky;
-    top: 40px;
+    top: 50px;
+    padding-left: 40%;
+    padding-right: 40%;
 }
-
-
-
 .invisible{
     display: none;
 }
