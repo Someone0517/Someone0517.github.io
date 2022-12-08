@@ -20,6 +20,11 @@ body {
     width: 256px;
     padding-left: 30%;
 }
+#info{
+    border:double #0066ff;
+    padding: 5%; 
+    text-align: center
+}
 #a3:visited{
     color: #220cee;
 }
