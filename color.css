@@ -7,18 +7,18 @@ body {
     padding: 9px 5px 9px 5px;
     border: 2px double #d7ee0c;
     margin: 10px;
+    padding-left: 23%;
 }
 #wel2 {
     color: #0ceed0;
     padding: 9px 5px 9px 5px;
-    border: 3px double #ee0c0c;
+    border: 3px dotted #ee0c0c;
     margin: 30px;
 }
-#c1:hover{
-    color: #ee0c75;
-}
-#c2 {
+
+#P1 {
     width: 256px;
+    padding-left: 30%;
 }
 #a3:visited{
     color: #220cee;
